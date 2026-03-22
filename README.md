@@ -34,7 +34,7 @@ To play the game click on: https://skyforce1.netlify.app/
 - **Game Manager (Global.gd)** → Game state handling  
 - **UI System** → Menu and pause functionality  
 - **Audio System** → Background music and effects
-- - **Movements** → Use the arrow keys to movement,space for firing bullets.  
+- **Movements** → Use the arrow keys to movement,space for firing bullets.  
 
 ---
 
