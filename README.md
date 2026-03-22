@@ -10,6 +10,8 @@ SkyForce is an action-based space shooter game where the player controls a space
 
 The project demonstrates core game development concepts such as **player controls, enemy AI, collision handling, UI systems, and shader effects** using the Godot Engine.
 
+To play the game click on: https://skyforce1.netlify.app/
+
 ---
 
 ## 🎮 Features
